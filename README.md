@@ -7,3 +7,4 @@ Aditional features of the website will include clear navigation, updated content
 The goal is to create a platform that is both informative and engaging for users of all ages.
 Through overcoming these challenges, the project has also provided an opportunity to strengthen problem-solving skills, improve coding knowledge, and gain practical experience in web development.
 Future improvements may include adding more interactive features, integrating a content management system, and continuously updating the site to better serve the needs of the community.
+
